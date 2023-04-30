@@ -1,5 +1,5 @@
 # TerraSubmission
-repo with useful links
+useful links
 
 Deployment: https://terra-scheduler-frontend-git-master-hrithinnnn.vercel.app/login
 
