@@ -4,9 +4,9 @@ repo with useful links
 Deployment: https://terra-scheduler-frontend-git-master-hrithinnnn.vercel.app/login
 
 Frontend:
-https://terra-scheduler-frontend-ejfhgmsj0-hrithinnnn.vercel.app/
+https://terra-scheduler-frontend-ejfhgmsj0-hrithinnnn.vercel.app/ \n
 Backend:
-https://terrascheduler.onrender.com/
+https://terrascheduler.onrender.com/ \n
 
 Github reositories:
 
