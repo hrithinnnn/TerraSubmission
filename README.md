@@ -8,7 +8,7 @@ https://terra-scheduler-frontend-ejfhgmsj0-hrithinnnn.vercel.app/
 Backend:
 https://terrascheduler.onrender.com/  
 
-Github reositories:
+Github repositories:
 
 FrontEnd:https://github.com/hrithinnnn/TerraScheduler-Frontend  
 BackEnd:https://github.com/hrithinnnn/terrascheduler-backend  
